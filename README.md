@@ -1,1 +1,2 @@
 # Kusur
+Program za kusur
